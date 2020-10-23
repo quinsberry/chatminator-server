@@ -1,4 +1,4 @@
-# Twitter Clone
+# Chatminator
 
 ## Description
 
